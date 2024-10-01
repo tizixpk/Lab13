@@ -16,6 +16,8 @@ Clonar una máquina virtual para crear una copia exacta.
 2. En el menú de VirtualBox, hacer clic derecho sobre la VM -> Opción "Clonar".
 3. Seleccionar "Clonación Completa" para una copia completa o "Clonación Enlazada" si se desea ahorrar espacio en disco (pero compartiendo discos virtuales).
 
+![image](https://github.com/user-attachments/assets/70e2074c-55bb-43e1-b478-d620fafbede0)
+
 ### Verificación:
 1. Iniciar ambas máquinas (la original y la clonada) para verificar que ambas funcionan correctamente de manera independiente.
 
